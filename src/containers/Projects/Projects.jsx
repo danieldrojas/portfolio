@@ -20,9 +20,9 @@ const Portfolio = () => {
                     <div className="row">
                         <div className="col-sm-6">
                                 <Card
-                                    name="freezer"
+                                    name="freezER"
                                 image={freezer}
-                            text="Ice cream store finder. Server-side APIs"                             
+                            text="Ice cream store finder."                             
                             deployed="https://danieldrojas.github.io/gt-freezER/"
                             repository="https://github.com/danieldrojas/gt-freezER"
                                 
@@ -30,9 +30,9 @@ const Portfolio = () => {
                         </div>
                         <div className="col-sm-6">
                             <Card
-                                name="noteTaker"
+                                name="NoteTaker"
                             image={noteTaker}
-                            text="Keep your notes in one app for you to access anytime. Express server"
+                            text="Keep your notes in one app for you to access anytime."
                             deployed="https://gt-note-taker-express-server.herokuapp.com/"
                             repository="https://github.com/danieldrojas/gt-note-taker"
                             />
