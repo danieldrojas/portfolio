@@ -18,8 +18,8 @@ const Contact = () => {
                                 rel="noopener noreferrer"
                                 href="https://github.com/danieldrojas"
                                 target="_blank">github.com/danieldrojas
-                                 
-                        </a></li>
+
+                            </a></li>
                             <li><a id="contact-info"
                                 rel="noopener noreferrer"
                                 href="https://www.linkedin.com/in/daniel-drojas/"
@@ -30,7 +30,7 @@ const Contact = () => {
                             </li>
                             <li><span>Cellphone: 678-643-3731</span>
                             </li>
-                            <li><span>Location: Duluth, GA</span>
+                            <li><span>Location: Russellville, AR</span>
                             </li>
 
                         </ul>
