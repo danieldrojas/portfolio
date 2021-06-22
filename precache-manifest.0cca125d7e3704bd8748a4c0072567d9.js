@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2797f66ddf868706cc9af7ce0a40179",
+    "revision": "31289a67b9d08eb51a4ff4c455c15437",
     "url": "/index.html"
   },
   {
-    "revision": "eea9541312ed4e561690",
+    "revision": "17322afa3f23f66b9b8f",
     "url": "/static/css/main.f91adf82.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.9b9f599a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eea9541312ed4e561690",
-    "url": "/static/js/main.a8f0229c.chunk.js"
+    "revision": "17322afa3f23f66b9b8f",
+    "url": "/static/js/main.422bc7c8.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fixedphoto.4d73bc54.png"
   },
   {
-    "revision": "91f48158d712402ef5d2197c776cbf7e",
-    "url": "/static/media/freezer.91f48158.png"
+    "revision": "188238dd69f2919d340be9824cd5d4d4",
+    "url": "/static/media/goCamping.188238dd.png"
   },
   {
     "revision": "06e29bbb0fc3c1636c43c0ad3edc4d7c",
