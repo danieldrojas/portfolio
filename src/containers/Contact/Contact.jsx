@@ -10,7 +10,7 @@ const Contact = () => {
                         <ul>
                             <li><a id="contact-info"
                                 rel="noopener noreferrer"
-                                href="https://drive.google.com/file/d/1FUsOM4p9IUJKtx1M9-gD6ciSEHG58S5m/view?usp=sharing"
+                                href="https://drive.google.com/drive/folders/1nmwsC4mrN1FxF_rhRs8tme4mOAobA7fK?ths=true"
                                 target="_blank">My resume</a>
                             </li>
 
